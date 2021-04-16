@@ -7,6 +7,13 @@ Computer structures, machine languages, instruction execution, addressing techni
 
 ## Labs - Logism
 
++ Lab2: multiplexer, decoder for the 7-segment HEX display
++ Lab3: Four-bit ripple-carry adder circuit, ALU
++ Lab4: gated D latch, improved ALU, 8-bit shift-register
++ Lab5: bit synchronous counter, Morse code encoder
++ Lab6: finite state machine, Processor circuits
++ Lab7: RAM module, display simple images on the RGB Video display
+
 
 ## Assembly Final Project: Centipede
 
