@@ -29,3 +29,6 @@ Since we don't have access to physical computers with MIPS processors, we will t
 6. Run > Go (to start the run)
 7. Input the character j or k or x in Keyboard area (bottom white box) in Keyboard
 and Display MMIO Simulator window
+
+#### Demo Video
+[Demo Video](https://www.jimschenchen.com/2021/04/16/csc258-assembly-final-project-centipede-demo-video/)
