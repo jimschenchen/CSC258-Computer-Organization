@@ -26,7 +26,7 @@
 	totalLives: .word 5
 	level: .word 0	# centipedeElimination functional determine level
 	levelMax: .word 5
-	centipedeElimination: .word 5	
+	centipedeElimination: .word 0
 	
 	# Score
 	# mushroomScore: .word 1
