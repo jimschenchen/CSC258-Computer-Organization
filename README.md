@@ -10,7 +10,7 @@ Computer structures, machine languages, instruction execution, addressing techni
 
 ## Assembly Final Project: Centipede
 
-![image](Final Assignment Centipede/Demopic.png)
+![image](./Demopic.png)
 
 
 [Demo Video](https://www.jimschenchen.com/2021/04/16/csc258-assembly-final-project-centipede-demo-video/)
