@@ -1,0 +1,11 @@
+# Test Vector for mux2to1
+#x y s m
+SW_0 SW_1 SW_9 LEDR_0
+0 0 0 0
+0 1 0 0
+1 0 0 1
+1 1 0 1
+0 0 1 0
+0 1 1 1
+1 0 1 0
+1 1 1 1
