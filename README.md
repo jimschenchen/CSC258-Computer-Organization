@@ -22,6 +22,8 @@ Computer structures, machine languages, instruction execution, addressing techni
 
 [Demo Video](https://www.jimschenchen.com/2021/04/16/csc258-assembly-final-project-centipede-demo-video/)
 
+https://github.com/jimschenchen/CSC258-Computer-Organization/blob/main/Final%20Assignment%20Centipede/Demo.mov
+
 #### Overview
 In this project, we will implement a modified version of the popular 1980 Atari game Centipede using MIPS assembly. Familiarize yourself with the game here (https://www.youtube.com/watch?v=V7XEmf02zEM) or here (Flash required; https://my.ign.com/atari/centipede).
 Since we don't have access to physical computers with MIPS processors, we will test our implementation in a simulated environment within MARS, i.e., a simulated bitmap display and a simulated keyboard input.
